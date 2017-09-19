@@ -1,0 +1,328 @@
+Only using analogy loss
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 185, 147) "B" shape (1, 3, 128, 102)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 41296711680.0
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_0_0.png
+Iteration completed in 1.61 seconds
+Start of iteration 0 x 1
+Current loss value: 37853577216.0
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_0_1.png
+Iteration completed in 1.63 seconds
+Start of iteration 0 x 2
+Current loss value: 36656766976.0
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_0_2.png
+Iteration completed in 1.10 seconds
+Start of iteration 0 x 3
+Current loss value: 35941974016.0
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_0_3.png
+Iteration completed in 2.07 seconds
+Start of iteration 0 x 4
+Current loss value: 35562848256.0
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_0_4.png
+Iteration completed in 1.37 seconds
+Scale factor 0.625 "A" shape (1, 3, 461, 368) "B" shape (1, 3, 321, 256)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 2.11258834944e+11
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_1_0.png
+Iteration completed in 2.99 seconds
+Start of iteration 1 x 1
+Current loss value: 1.93660977152e+11
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_1_1.png
+Iteration completed in 3.73 seconds
+Start of iteration 1 x 2
+Current loss value: 1.84663343104e+11
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_1_2.png
+Iteration completed in 3.15 seconds
+Start of iteration 1 x 3
+Current loss value: 1.78601787392e+11
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_1_3.png
+Iteration completed in 3.89 seconds
+Start of iteration 1 x 4
+Current loss value: 1.74253162496e+11
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_1_4.png
+Iteration completed in 2.89 seconds
+Scale factor 1.0 "A" shape (1, 3, 738, 589) "B" shape (1, 3, 513, 409)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 3.81148069888e+11
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_2_0.png
+Iteration completed in 7.04 seconds
+Start of iteration 2 x 1
+Current loss value: 3.54409447424e+11
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_2_1.png
+Iteration completed in 7.40 seconds
+Start of iteration 2 x 2
+Current loss value: 3.42159785984e+11
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_2_2.png
+Iteration completed in 8.27 seconds
+Start of iteration 2 x 3
+Current loss value: 3.34729936896e+11
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_2_3.png
+Iteration completed in 7.43 seconds
+Start of iteration 2 x 4
+Current loss value: 3.29860022272e+11
+Image saved as out/sugarskull-analogy-only/sugarskull-Bp_at_iteration_2_4.png
+Iteration completed in 7.09 seconds
+Done after 99.74 seconds
+Stock output (analogy and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 185, 147) "B" shape (1, 3, 128, 102)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 85692620800.0
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_0_0.png
+Iteration completed in 6.38 seconds
+Start of iteration 0 x 1
+Current loss value: 79479390208.0
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_0_1.png
+Iteration completed in 6.22 seconds
+Start of iteration 0 x 2
+Current loss value: 76950429696.0
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_0_2.png
+Iteration completed in 5.83 seconds
+Start of iteration 0 x 3
+Current loss value: 75872018432.0
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_0_3.png
+Iteration completed in 5.68 seconds
+Start of iteration 0 x 4
+Current loss value: 75045183488.0
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_0_4.png
+Iteration completed in 6.15 seconds
+Scale factor 0.625 "A" shape (1, 3, 461, 368) "B" shape (1, 3, 321, 256)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 5.14509766656e+11
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_1_0.png
+Iteration completed in 71.93 seconds
+Start of iteration 1 x 1
+Current loss value: 4.74661388288e+11
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_1_1.png
+Iteration completed in 51.72 seconds
+Start of iteration 1 x 2
+Current loss value: 4.55700840448e+11
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_1_2.png
+Iteration completed in 31.74 seconds
+Start of iteration 1 x 3
+Current loss value: 4.43937652736e+11
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_1_3.png
+Iteration completed in 24.74 seconds
+Start of iteration 1 x 4
+Current loss value: 4.35413123072e+11
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_1_4.png
+Iteration completed in 29.26 seconds
+Scale factor 1.0 "A" shape (1, 3, 738, 589) "B" shape (1, 3, 513, 409)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 9.5474515968e+11
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_2_0.png
+Iteration completed in 111.33 seconds
+Start of iteration 2 x 1
+Current loss value: 9.16324286464e+11
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_2_1.png
+Iteration completed in 163.61 seconds
+Start of iteration 2 x 2
+Current loss value: 8.94895915008e+11
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_2_2.png
+Iteration completed in 98.35 seconds
+Start of iteration 2 x 3
+Current loss value: 8.81393467392e+11
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_2_3.png
+Iteration completed in 128.59 seconds
+Start of iteration 2 x 4
+Current loss value: 8.73112076288e+11
+Image saved as out/sugarskull-blend/sugarskull-Bp_at_iteration_2_4.png
+Iteration completed in 134.98 seconds
+Done after 923.19 seconds
+Style transfer (content loss and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 185, 147) "B" shape (1, 3, 128, 102)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 1.35681605632e+11
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_0_0.png
+Iteration completed in 6.39 seconds
+Start of iteration 0 x 1
+Current loss value: 1.27973572608e+11
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_0_1.png
+Iteration completed in 4.18 seconds
+Start of iteration 0 x 2
+Current loss value: 1.25741080576e+11
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_0_2.png
+Iteration completed in 6.02 seconds
+Start of iteration 0 x 3
+Current loss value: 1.25576839168e+11
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_0_3.png
+Iteration completed in 4.63 seconds
+Start of iteration 0 x 4
+Current loss value: 1.25499916288e+11
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_0_4.png
+Iteration completed in 6.30 seconds
+Scale factor 0.625 "A" shape (1, 3, 461, 368) "B" shape (1, 3, 321, 256)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 8.01437712384e+11
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_1_0.png
+Iteration completed in 36.56 seconds
+Start of iteration 1 x 1
+Current loss value: 7.88386021376e+11
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_1_1.png
+Iteration completed in 38.13 seconds
+Start of iteration 1 x 2
+Current loss value: 7.85556635648e+11
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_1_2.png
+Iteration completed in 39.35 seconds
+Start of iteration 1 x 3
+Current loss value: 7.83674507264e+11
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_1_3.png
+Iteration completed in 42.31 seconds
+Start of iteration 1 x 4
+Current loss value: 7.83740698624e+11
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_1_4.png
+Iteration completed in 51.91 seconds
+Scale factor 1.0 "A" shape (1, 3, 738, 589) "B" shape (1, 3, 513, 409)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.66615803494e+12
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_2_0.png
+Iteration completed in 111.38 seconds
+Start of iteration 2 x 1
+Current loss value: 1.64920570675e+12
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_2_1.png
+Iteration completed in 147.33 seconds
+Start of iteration 2 x 2
+Current loss value: 1.64163669197e+12
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_2_2.png
+Iteration completed in 117.81 seconds
+Start of iteration 2 x 3
+Current loss value: 1.63744147046e+12
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_2_3.png
+Iteration completed in 112.72 seconds
+Start of iteration 2 x 4
+Current loss value: 1.63655044301e+12
+Image saved as out/sugarskull-style-xfer/sugarskull-Bp_at_iteration_2_4.png
+Iteration completed in 118.34 seconds
+Done after 872.41 seconds
+Texture generator (local coherence only)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 185, 147) "B" shape (1, 3, 128, 102)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 35639222272.0
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_0_0.png
+Iteration completed in 4.81 seconds
+Start of iteration 0 x 1
+Current loss value: 31744735232.0
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_0_1.png
+Iteration completed in 6.39 seconds
+Start of iteration 0 x 2
+Current loss value: 31035207680.0
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_0_2.png
+Iteration completed in 5.20 seconds
+Start of iteration 0 x 3
+Current loss value: 30885187584.0
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_0_3.png
+Iteration completed in 5.40 seconds
+Start of iteration 0 x 4
+Current loss value: 30882373632.0
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_0_4.png
+Iteration completed in 4.20 seconds
+Scale factor 0.625 "A" shape (1, 3, 461, 368) "B" shape (1, 3, 321, 256)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 1.73787840512e+11
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_1_0.png
+Iteration completed in 39.67 seconds
+Start of iteration 1 x 1
+Current loss value: 1.55133149184e+11
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_1_1.png
+Iteration completed in 37.18 seconds
+Start of iteration 1 x 2
+Current loss value: 1.47733364736e+11
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_1_2.png
+Iteration completed in 24.38 seconds
+Start of iteration 1 x 3
+Current loss value: 1.43301394432e+11
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_1_3.png
+Iteration completed in 37.96 seconds
+Start of iteration 1 x 4
+Current loss value: 1.40254871552e+11
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_1_4.png
+Iteration completed in 26.07 seconds
+Scale factor 1.0 "A" shape (1, 3, 738, 589) "B" shape (1, 3, 513, 409)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 2.54986272768e+11
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_2_0.png
+Iteration completed in 115.77 seconds
+Start of iteration 2 x 1
+Current loss value: 2.38730674176e+11
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_2_1.png
+Iteration completed in 104.89 seconds
+Start of iteration 2 x 2
+Current loss value: 2.3139631104e+11
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_2_2.png
+Iteration completed in 89.38 seconds
+Start of iteration 2 x 3
+Current loss value: 2.2753878016e+11
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_2_3.png
+Iteration completed in 101.81 seconds
+Start of iteration 2 x 4
+Current loss value: 2.25292648448e+11
+Image saved as out/sugarskull-texture/sugarskull-Bp_at_iteration_2_4.png
+Iteration completed in 111.19 seconds
+Done after 737.56 seconds
