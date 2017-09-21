@@ -1,0 +1,320 @@
+Only using analogy loss
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 256, 256) "B" shape (1, 3, 128, 128)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 23358414848.0
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_0_0.png
+Iteration completed in 0.85 seconds
+Start of iteration 0 x 1
+Current loss value: 20508534784.0
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_0_1.png
+Iteration completed in 0.87 seconds
+Start of iteration 0 x 2
+Current loss value: 19427299328.0
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_0_2.png
+Iteration completed in 0.85 seconds
+Start of iteration 0 x 3
+Current loss value: 18770532352.0
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_0_3.png
+Iteration completed in 0.87 seconds
+Start of iteration 0 x 4
+Current loss value: 18352001024.0
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_0_4.png
+Iteration completed in 0.98 seconds
+Scale factor 0.625 "A" shape (1, 3, 640, 640) "B" shape (1, 3, 320, 320)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 86770860032.0
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_1_0.png
+Iteration completed in 2.68 seconds
+Start of iteration 1 x 1
+Current loss value: 80935256064.0
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_1_1.png
+Iteration completed in 2.71 seconds
+Start of iteration 1 x 2
+Current loss value: 78176813056.0
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_1_2.png
+Iteration completed in 2.64 seconds
+Start of iteration 1 x 3
+Current loss value: 76425625600.0
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_1_3.png
+Iteration completed in 2.66 seconds
+Start of iteration 1 x 4
+Current loss value: 75194974208.0
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_1_4.png
+Iteration completed in 2.62 seconds
+Scale factor 1.0 "A" shape (1, 3, 1024, 1024) "B" shape (1, 3, 512, 512)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.62654322688e+11
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_2_0.png
+Iteration completed in 6.58 seconds
+Start of iteration 2 x 1
+Current loss value: 1.52215126016e+11
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_2_1.png
+Iteration completed in 7.61 seconds
+Start of iteration 2 x 2
+Current loss value: 1.47121815552e+11
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_2_2.png
+Iteration completed in 7.30 seconds
+Start of iteration 2 x 3
+Current loss value: 1.43973941248e+11
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_2_3.png
+Iteration completed in 6.10 seconds
+Start of iteration 2 x 4
+Current loss value: 1.4179270656e+11
+Image saved as out/pizza-cartoon2-analogy-only/pizza-cartoon2-Bp_at_iteration_2_4.png
+Iteration completed in 7.28 seconds
+Done after 97.91 seconds
+Stock output (analogy and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 256, 256) "B" shape (1, 3, 128, 128)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 49039654912.0
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_0_0.png
+Iteration completed in 8.43 seconds
+Start of iteration 0 x 1
+Current loss value: 44481806336.0
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_0_1.png
+Iteration completed in 8.65 seconds
+Start of iteration 0 x 2
+Current loss value: 42900074496.0
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_0_2.png
+Iteration completed in 7.48 seconds
+Start of iteration 0 x 3
+Current loss value: 42036494336.0
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_0_3.png
+Iteration completed in 5.86 seconds
+Start of iteration 0 x 4
+Current loss value: 41407242240.0
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_0_4.png
+Iteration completed in 5.84 seconds
+Scale factor 0.625 "A" shape (1, 3, 640, 640) "B" shape (1, 3, 320, 320)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 2.26552152064e+11
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_1_0.png
+Iteration completed in 64.67 seconds
+Start of iteration 1 x 1
+Current loss value: 2.14271787008e+11
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_1_1.png
+Iteration completed in 58.43 seconds
+Start of iteration 1 x 2
+Current loss value: 2.08849616896e+11
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_1_2.png
+Iteration completed in 46.29 seconds
+Start of iteration 1 x 3
+Current loss value: 2.05560250368e+11
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_1_3.png
+Iteration completed in 53.55 seconds
+Start of iteration 1 x 4
+Current loss value: 2.02697867264e+11
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_1_4.png
+Iteration completed in 50.35 seconds
+Scale factor 1.0 "A" shape (1, 3, 1024, 1024) "B" shape (1, 3, 512, 512)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 4.17965703168e+11
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_2_0.png
+Iteration completed in 254.80 seconds
+Start of iteration 2 x 1
+Current loss value: 4.05937487872e+11
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_2_1.png
+Iteration completed in 221.04 seconds
+Start of iteration 2 x 2
+Current loss value: 4.0068513792e+11
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_2_2.png
+Iteration completed in 192.88 seconds
+Start of iteration 2 x 3
+Current loss value: 3.9606714368e+11
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_2_3.png
+Iteration completed in 191.57 seconds
+Start of iteration 2 x 4
+Current loss value: 3.94461642752e+11
+Image saved as out/pizza-cartoon2-blend/pizza-cartoon2-Bp_at_iteration_2_4.png
+Iteration completed in 159.99 seconds
+Done after 1388.40 seconds
+Style transfer (content loss and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 256, 256) "B" shape (1, 3, 128, 128)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 1.01789212672e+11
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_0_0.png
+Iteration completed in 5.84 seconds
+Start of iteration 0 x 1
+Current loss value: 93016334336.0
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_0_1.png
+Iteration completed in 5.68 seconds
+Start of iteration 0 x 2
+Current loss value: 89940918272.0
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_0_2.png
+Iteration completed in 5.79 seconds
+Start of iteration 0 x 3
+Current loss value: 88372903936.0
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_0_3.png
+Iteration completed in 5.77 seconds
+Start of iteration 0 x 4
+Current loss value: 87335133184.0
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_0_4.png
+Iteration completed in 5.76 seconds
+Scale factor 0.625 "A" shape (1, 3, 640, 640) "B" shape (1, 3, 320, 320)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 4.98118950912e+11
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_1_0.png
+Iteration completed in 64.16 seconds
+Start of iteration 1 x 1
+Current loss value: 4.80526925824e+11
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_1_1.png
+Iteration completed in 62.50 seconds
+Start of iteration 1 x 2
+Current loss value: 4.72708513792e+11
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_1_2.png
+Iteration completed in 57.05 seconds
+Start of iteration 1 x 3
+Current loss value: 4.66437931008e+11
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_1_3.png
+Iteration completed in 57.71 seconds
+Start of iteration 1 x 4
+Current loss value: 4.63938551808e+11
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_1_4.png
+Iteration completed in 61.86 seconds
+Scale factor 1.0 "A" shape (1, 3, 1024, 1024) "B" shape (1, 3, 512, 512)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 9.39550572544e+11
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_2_0.png
+Iteration completed in 219.67 seconds
+Start of iteration 2 x 1
+Current loss value: 9.1153137664e+11
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_2_1.png
+Iteration completed in 157.68 seconds
+Start of iteration 2 x 2
+Current loss value: 8.97749745664e+11
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_2_2.png
+Iteration completed in 161.59 seconds
+Start of iteration 2 x 3
+Current loss value: 8.90649903104e+11
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_2_3.png
+Iteration completed in 158.64 seconds
+Start of iteration 2 x 4
+Current loss value: 8.83513163776e+11
+Image saved as out/pizza-cartoon2-style-xfer/pizza-cartoon2-Bp_at_iteration_2_4.png
+Iteration completed in 155.46 seconds
+Done after 1212.49 seconds
+Texture generator (local coherence only)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 256, 256) "B" shape (1, 3, 128, 128)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 24696557568.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_0_0.png
+Iteration completed in 5.73 seconds
+Start of iteration 0 x 1
+Current loss value: 21298354176.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_0_1.png
+Iteration completed in 5.69 seconds
+Start of iteration 0 x 2
+Current loss value: 20385447936.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_0_2.png
+Iteration completed in 5.66 seconds
+Start of iteration 0 x 3
+Current loss value: 19889555456.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_0_3.png
+Iteration completed in 5.68 seconds
+Start of iteration 0 x 4
+Current loss value: 19619512320.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_0_4.png
+Iteration completed in 5.94 seconds
+Scale factor 0.625 "A" shape (1, 3, 640, 640) "B" shape (1, 3, 320, 320)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 74320822272.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_1_0.png
+Iteration completed in 77.61 seconds
+Start of iteration 1 x 1
+Current loss value: 66878566400.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_1_1.png
+Iteration completed in 60.89 seconds
+Start of iteration 1 x 2
+Current loss value: 64271986688.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_1_2.png
+Iteration completed in 56.76 seconds
+Start of iteration 1 x 3
+Current loss value: 62835798016.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_1_3.png
+Iteration completed in 59.41 seconds
+Start of iteration 1 x 4
+Current loss value: 61811519488.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_1_4.png
+Iteration completed in 48.05 seconds
+Scale factor 1.0 "A" shape (1, 3, 1024, 1024) "B" shape (1, 3, 512, 512)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 89406021632.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_2_0.png
+Iteration completed in 216.09 seconds
+Start of iteration 2 x 1
+Current loss value: 84261183488.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_2_1.png
+Iteration completed in 158.08 seconds
+Start of iteration 2 x 2
+Current loss value: 81979973632.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_2_2.png
+Iteration completed in 162.96 seconds
+Start of iteration 2 x 3
+Current loss value: 80644456448.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_2_3.png
+Iteration completed in 158.99 seconds
+Start of iteration 2 x 4
+Current loss value: 80089522176.0
+Image saved as out/pizza-cartoon2-texture/pizza-cartoon2-Bp_at_iteration_2_4.png
+Iteration completed in 155.30 seconds
+Done after 1205.41 seconds

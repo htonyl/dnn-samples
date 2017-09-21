@@ -1,0 +1,320 @@
+Only using analogy loss
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 55, 55) "B" shape (1, 3, 128, 128)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 39721381888.0
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_0_0.png
+Iteration completed in 1.13 seconds
+Start of iteration 0 x 1
+Current loss value: 37260451840.0
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_0_1.png
+Iteration completed in 0.95 seconds
+Start of iteration 0 x 2
+Current loss value: 36359917568.0
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_0_2.png
+Iteration completed in 1.31 seconds
+Start of iteration 0 x 3
+Current loss value: 35902717952.0
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_0_3.png
+Iteration completed in 1.43 seconds
+Start of iteration 0 x 4
+Current loss value: 35628216320.0
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_0_4.png
+Iteration completed in 1.13 seconds
+Scale factor 0.625 "A" shape (1, 3, 138, 138) "B" shape (1, 3, 320, 320)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 1.22825064448e+11
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_1_0.png
+Iteration completed in 3.56 seconds
+Start of iteration 1 x 1
+Current loss value: 1.14998755328e+11
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_1_1.png
+Iteration completed in 3.68 seconds
+Start of iteration 1 x 2
+Current loss value: 1.11633416192e+11
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_1_2.png
+Iteration completed in 3.51 seconds
+Start of iteration 1 x 3
+Current loss value: 1.097695232e+11
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_1_3.png
+Iteration completed in 3.69 seconds
+Start of iteration 1 x 4
+Current loss value: 1.08649136128e+11
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_1_4.png
+Iteration completed in 3.93 seconds
+Scale factor 1.0 "A" shape (1, 3, 220, 220) "B" shape (1, 3, 512, 512)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 2.87799246848e+11
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_2_0.png
+Iteration completed in 8.21 seconds
+Start of iteration 2 x 1
+Current loss value: 2.703446016e+11
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_2_1.png
+Iteration completed in 8.11 seconds
+Start of iteration 2 x 2
+Current loss value: 2.63451262976e+11
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_2_2.png
+Iteration completed in 8.29 seconds
+Start of iteration 2 x 3
+Current loss value: 2.59582885888e+11
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_2_3.png
+Iteration completed in 7.77 seconds
+Start of iteration 2 x 4
+Current loss value: 2.5708199936e+11
+Image saved as out/adidas-ad2-analogy-only/adidas-ad2-Bp_at_iteration_2_4.png
+Iteration completed in 7.76 seconds
+Done after 96.49 seconds
+Stock output (analogy and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 55, 55) "B" shape (1, 3, 128, 128)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 80311459840.0
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_0_0.png
+Iteration completed in 9.61 seconds
+Start of iteration 0 x 1
+Current loss value: 75756322816.0
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_0_1.png
+Iteration completed in 8.84 seconds
+Start of iteration 0 x 2
+Current loss value: 74270146560.0
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_0_2.png
+Iteration completed in 8.50 seconds
+Start of iteration 0 x 3
+Current loss value: 73429516288.0
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_0_3.png
+Iteration completed in 9.08 seconds
+Start of iteration 0 x 4
+Current loss value: 72860270592.0
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_0_4.png
+Iteration completed in 8.69 seconds
+Scale factor 0.625 "A" shape (1, 3, 138, 138) "B" shape (1, 3, 320, 320)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 4.01933172736e+11
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_1_0.png
+Iteration completed in 54.79 seconds
+Start of iteration 1 x 1
+Current loss value: 3.83142035456e+11
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_1_1.png
+Iteration completed in 52.63 seconds
+Start of iteration 1 x 2
+Current loss value: 3.7542854656e+11
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_1_2.png
+Iteration completed in 52.59 seconds
+Start of iteration 1 x 3
+Current loss value: 3.71960414208e+11
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_1_3.png
+Iteration completed in 53.55 seconds
+Start of iteration 1 x 4
+Current loss value: 3.69858543616e+11
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_1_4.png
+Iteration completed in 52.39 seconds
+Scale factor 1.0 "A" shape (1, 3, 220, 220) "B" shape (1, 3, 512, 512)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 9.87768946688e+11
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_2_0.png
+Iteration completed in 148.35 seconds
+Start of iteration 2 x 1
+Current loss value: 9.59457067008e+11
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_2_1.png
+Iteration completed in 146.09 seconds
+Start of iteration 2 x 2
+Current loss value: 9.46220105728e+11
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_2_2.png
+Iteration completed in 132.53 seconds
+Start of iteration 2 x 3
+Current loss value: 9.37070624768e+11
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_2_3.png
+Iteration completed in 146.32 seconds
+Start of iteration 2 x 4
+Current loss value: 9.3048930304e+11
+Image saved as out/adidas-ad2-blend/adidas-ad2-Bp_at_iteration_2_4.png
+Iteration completed in 142.84 seconds
+Done after 1064.62 seconds
+Style transfer (content loss and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 55, 55) "B" shape (1, 3, 128, 128)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 1.24143181824e+11
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_0_0.png
+Iteration completed in 9.20 seconds
+Start of iteration 0 x 1
+Current loss value: 1.16038950912e+11
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_0_1.png
+Iteration completed in 8.66 seconds
+Start of iteration 0 x 2
+Current loss value: 1.13997152256e+11
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_0_2.png
+Iteration completed in 9.05 seconds
+Start of iteration 0 x 3
+Current loss value: 1.13570054144e+11
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_0_3.png
+Iteration completed in 9.02 seconds
+Start of iteration 0 x 4
+Current loss value: 1.13471021056e+11
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_0_4.png
+Iteration completed in 8.78 seconds
+Scale factor 0.625 "A" shape (1, 3, 138, 138) "B" shape (1, 3, 320, 320)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 5.66857629696e+11
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_1_0.png
+Iteration completed in 54.34 seconds
+Start of iteration 1 x 1
+Current loss value: 5.55337515008e+11
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_1_1.png
+Iteration completed in 53.64 seconds
+Start of iteration 1 x 2
+Current loss value: 5.534285824e+11
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_1_2.png
+Iteration completed in 52.34 seconds
+Start of iteration 1 x 3
+Current loss value: 5.53407676416e+11
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_1_3.png
+Iteration completed in 54.24 seconds
+Start of iteration 1 x 4
+Current loss value: 5.5337222144e+11
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_1_4.png
+Iteration completed in 55.73 seconds
+Scale factor 1.0 "A" shape (1, 3, 220, 220) "B" shape (1, 3, 512, 512)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.18092621414e+12
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_2_0.png
+Iteration completed in 147.59 seconds
+Start of iteration 2 x 1
+Current loss value: 1.1753947136e+12
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_2_1.png
+Iteration completed in 144.30 seconds
+Start of iteration 2 x 2
+Current loss value: 1.16786305434e+12
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_2_2.png
+Iteration completed in 137.02 seconds
+Start of iteration 2 x 3
+Current loss value: 1.16009231974e+12
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_2_3.png
+Iteration completed in 149.55 seconds
+Start of iteration 2 x 4
+Current loss value: 1.15567034368e+12
+Image saved as out/adidas-ad2-style-xfer/adidas-ad2-Bp_at_iteration_2_4.png
+Iteration completed in 138.13 seconds
+Done after 1059.94 seconds
+Texture generator (local coherence only)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 55, 55) "B" shape (1, 3, 128, 128)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 32242950144.0
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_0_0.png
+Iteration completed in 8.94 seconds
+Start of iteration 0 x 1
+Current loss value: 28491880448.0
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_0_1.png
+Iteration completed in 9.04 seconds
+Start of iteration 0 x 2
+Current loss value: 27831468032.0
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_0_2.png
+Iteration completed in 9.32 seconds
+Start of iteration 0 x 3
+Current loss value: 27789690880.0
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_0_3.png
+Iteration completed in 8.73 seconds
+Start of iteration 0 x 4
+Current loss value: 27384641536.0
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_0_4.png
+Iteration completed in 8.47 seconds
+Scale factor 0.625 "A" shape (1, 3, 138, 138) "B" shape (1, 3, 320, 320)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 1.03246249984e+11
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_1_0.png
+Iteration completed in 53.06 seconds
+Start of iteration 1 x 1
+Current loss value: 93946798080.0
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_1_1.png
+Iteration completed in 54.81 seconds
+Start of iteration 1 x 2
+Current loss value: 89844416512.0
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_1_2.png
+Iteration completed in 54.90 seconds
+Start of iteration 1 x 3
+Current loss value: 87825162240.0
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_1_3.png
+Iteration completed in 51.61 seconds
+Start of iteration 1 x 4
+Current loss value: 86797697024.0
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_1_4.png
+Iteration completed in 53.74 seconds
+Scale factor 1.0 "A" shape (1, 3, 220, 220) "B" shape (1, 3, 512, 512)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.61636745216e+11
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_2_0.png
+Iteration completed in 144.71 seconds
+Start of iteration 2 x 1
+Current loss value: 1.50774284288e+11
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_2_1.png
+Iteration completed in 144.87 seconds
+Start of iteration 2 x 2
+Current loss value: 1.46177818624e+11
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_2_2.png
+Iteration completed in 86.63 seconds
+Start of iteration 2 x 3
+Current loss value: 1.43864070144e+11
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_2_3.png
+Iteration completed in 88.20 seconds
+Start of iteration 2 x 4
+Current loss value: 1.42519812096e+11
+Image saved as out/adidas-ad2-texture/adidas-ad2-Bp_at_iteration_2_4.png
+Iteration completed in 88.52 seconds
+Done after 887.62 seconds
