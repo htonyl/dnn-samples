@@ -1,0 +1,320 @@
+Only using analogy loss
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 1: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 113, 113) "B" shape (1, 3, 128, 227)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 51060879360.0
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_0_0.png
+Iteration completed in 1.76 seconds
+Start of iteration 0 x 1
+Current loss value: 47045550080.0
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_0_1.png
+Iteration completed in 1.98 seconds
+Start of iteration 0 x 2
+Current loss value: 45751091200.0
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_0_2.png
+Iteration completed in 1.84 seconds
+Start of iteration 0 x 3
+Current loss value: 45094408192.0
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_0_3.png
+Iteration completed in 1.72 seconds
+Start of iteration 0 x 4
+Current loss value: 44703170560.0
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_0_4.png
+Iteration completed in 1.60 seconds
+Scale factor 0.625 "A" shape (1, 3, 281, 281) "B" shape (1, 3, 320, 568)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 1.95765551104e+11
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_1_0.png
+Iteration completed in 6.11 seconds
+Start of iteration 1 x 1
+Current loss value: 1.85405964288e+11
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_1_1.png
+Iteration completed in 6.12 seconds
+Start of iteration 1 x 2
+Current loss value: 1.8118705152e+11
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_1_2.png
+Iteration completed in 6.21 seconds
+Start of iteration 1 x 3
+Current loss value: 1.78772508672e+11
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_1_3.png
+Iteration completed in 6.39 seconds
+Start of iteration 1 x 4
+Current loss value: 1.7719435264e+11
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_1_4.png
+Iteration completed in 6.15 seconds
+Scale factor 1.0 "A" shape (1, 3, 450, 450) "B" shape (1, 3, 512, 909)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 3.59896055808e+11
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_2_0.png
+Iteration completed in 13.97 seconds
+Start of iteration 2 x 1
+Current loss value: 3.39990085632e+11
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_2_1.png
+Iteration completed in 13.71 seconds
+Start of iteration 2 x 2
+Current loss value: 3.31781767168e+11
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_2_2.png
+Iteration completed in 14.34 seconds
+Start of iteration 2 x 3
+Current loss value: 3.2716029952e+11
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_2_3.png
+Iteration completed in 13.80 seconds
+Start of iteration 2 x 4
+Current loss value: 3.24096720896e+11
+Image saved as out/portrait-brick-analogy-only/portrait-brick-Bp_at_iteration_2_4.png
+Iteration completed in 14.08 seconds
+Done after 150.47 seconds
+Stock output (analogy and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 1: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 113, 113) "B" shape (1, 3, 128, 227)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 1.27896731648e+11
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_0_0.png
+Iteration completed in 15.26 seconds
+Start of iteration 0 x 1
+Current loss value: 1.2105883648e+11
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_0_1.png
+Iteration completed in 15.06 seconds
+Start of iteration 0 x 2
+Current loss value: 1.2027674624e+11
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_0_2.png
+Iteration completed in 13.65 seconds
+Start of iteration 0 x 3
+Current loss value: 1.2019044352e+11
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_0_3.png
+Iteration completed in 15.30 seconds
+Start of iteration 0 x 4
+Current loss value: 1.2025810944e+11
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_0_4.png
+Iteration completed in 14.20 seconds
+Scale factor 0.625 "A" shape (1, 3, 281, 281) "B" shape (1, 3, 320, 568)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 6.57693540352e+11
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_1_0.png
+Iteration completed in 115.15 seconds
+Start of iteration 1 x 1
+Current loss value: 6.55686500352e+11
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_1_1.png
+Iteration completed in 106.74 seconds
+Start of iteration 1 x 2
+Current loss value: 6.5550680064e+11
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_1_2.png
+Iteration completed in 104.77 seconds
+Start of iteration 1 x 3
+Current loss value: 6.55541731328e+11
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_1_3.png
+Iteration completed in 104.72 seconds
+Start of iteration 1 x 4
+Current loss value: 6.55472197632e+11
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_1_4.png
+Iteration completed in 105.63 seconds
+Scale factor 1.0 "A" shape (1, 3, 450, 450) "B" shape (1, 3, 512, 909)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.41638002278e+12
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_2_0.png
+Iteration completed in 309.02 seconds
+Start of iteration 2 x 1
+Current loss value: 1.41390892237e+12
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_2_1.png
+Iteration completed in 321.59 seconds
+Start of iteration 2 x 2
+Current loss value: 1.41960308326e+12
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_2_2.png
+Iteration completed in 324.26 seconds
+Start of iteration 2 x 3
+Current loss value: 1.4122623959e+12
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_2_3.png
+Iteration completed in 294.91 seconds
+Start of iteration 2 x 4
+Current loss value: 1.4121762816e+12
+Image saved as out/portrait-brick-blend/portrait-brick-Bp_at_iteration_2_4.png
+Iteration completed in 319.62 seconds
+Done after 2223.82 seconds
+Style transfer (content loss and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 1: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 113, 113) "B" shape (1, 3, 128, 227)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 1.38600972288e+11
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_0_0.png
+Iteration completed in 15.77 seconds
+Start of iteration 0 x 1
+Current loss value: 1.29303150592e+11
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_0_1.png
+Iteration completed in 15.48 seconds
+Start of iteration 0 x 2
+Current loss value: 1.27730204672e+11
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_0_2.png
+Iteration completed in 14.61 seconds
+Start of iteration 0 x 3
+Current loss value: 1.28514351104e+11
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_0_3.png
+Iteration completed in 11.94 seconds
+Start of iteration 0 x 4
+Current loss value: 1.27748898816e+11
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_0_4.png
+Iteration completed in 11.39 seconds
+Scale factor 0.625 "A" shape (1, 3, 281, 281) "B" shape (1, 3, 320, 568)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 8.43331272704e+11
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_1_0.png
+Iteration completed in 113.21 seconds
+Start of iteration 1 x 1
+Current loss value: 8.38053527552e+11
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_1_1.png
+Iteration completed in 103.58 seconds
+Start of iteration 1 x 2
+Current loss value: 8.3661324288e+11
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_1_2.png
+Iteration completed in 101.11 seconds
+Start of iteration 1 x 3
+Current loss value: 8.35805642752e+11
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_1_3.png
+Iteration completed in 107.62 seconds
+Start of iteration 1 x 4
+Current loss value: 8.36748181504e+11
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_1_4.png
+Iteration completed in 108.95 seconds
+Scale factor 1.0 "A" shape (1, 3, 450, 450) "B" shape (1, 3, 512, 909)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.93984384205e+12
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_2_0.png
+Iteration completed in 315.71 seconds
+Start of iteration 2 x 1
+Current loss value: 1.9380076544e+12
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_2_1.png
+Iteration completed in 306.21 seconds
+Start of iteration 2 x 2
+Current loss value: 1.93707756749e+12
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_2_2.png
+Iteration completed in 308.39 seconds
+Start of iteration 2 x 3
+Current loss value: 1.93621118157e+12
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_2_3.png
+Iteration completed in 303.28 seconds
+Start of iteration 2 x 4
+Current loss value: 1.93647673344e+12
+Image saved as out/portrait-brick-style-xfer/portrait-brick-Bp_at_iteration_2_4.png
+Iteration completed in 310.61 seconds
+Done after 2176.47 seconds
+Texture generator (local coherence only)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 1: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 113, 113) "B" shape (1, 3, 128, 227)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 51277049856.0
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_0_0.png
+Iteration completed in 16.78 seconds
+Start of iteration 0 x 1
+Current loss value: 50395754496.0
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_0_1.png
+Iteration completed in 15.84 seconds
+Start of iteration 0 x 2
+Current loss value: 48621232128.0
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_0_2.png
+Iteration completed in 14.44 seconds
+Start of iteration 0 x 3
+Current loss value: 46813097984.0
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_0_3.png
+Iteration completed in 15.70 seconds
+Start of iteration 0 x 4
+Current loss value: 46622986240.0
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_0_4.png
+Iteration completed in 15.89 seconds
+Scale factor 0.625 "A" shape (1, 3, 281, 281) "B" shape (1, 3, 320, 568)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 2.2366814208e+11
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_1_0.png
+Iteration completed in 100.79 seconds
+Start of iteration 1 x 1
+Current loss value: 2.03091820544e+11
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_1_1.png
+Iteration completed in 109.50 seconds
+Start of iteration 1 x 2
+Current loss value: 1.94301100032e+11
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_1_2.png
+Iteration completed in 109.86 seconds
+Start of iteration 1 x 3
+Current loss value: 1.8890809344e+11
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_1_3.png
+Iteration completed in 109.34 seconds
+Start of iteration 1 x 4
+Current loss value: 1.85616859136e+11
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_1_4.png
+Iteration completed in 108.23 seconds
+Scale factor 1.0 "A" shape (1, 3, 450, 450) "B" shape (1, 3, 512, 909)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 3.33455130624e+11
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_2_0.png
+Iteration completed in 315.33 seconds
+Start of iteration 2 x 1
+Current loss value: 3.12557928448e+11
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_2_1.png
+Iteration completed in 296.36 seconds
+Start of iteration 2 x 2
+Current loss value: 3.03676588032e+11
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_2_2.png
+Iteration completed in 205.83 seconds
+Start of iteration 2 x 3
+Current loss value: 2.99329224704e+11
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_2_3.png
+Iteration completed in 242.52 seconds
+Start of iteration 2 x 4
+Current loss value: 2.9735632896e+11
+Image saved as out/portrait-brick-texture/portrait-brick-Bp_at_iteration_2_4.png
+Iteration completed in 216.15 seconds
+Done after 1916.12 seconds
