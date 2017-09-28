@@ -1,0 +1,328 @@
+Only using analogy loss
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 198, 300) "B" shape (1, 3, 128, 171)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 15227273216.0
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_0_0.png
+Iteration completed in 0.98 seconds
+Start of iteration 0 x 1
+Current loss value: 13710889984.0
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_0_1.png
+Iteration completed in 1.03 seconds
+Start of iteration 0 x 2
+Current loss value: 13178490880.0
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_0_2.png
+Iteration completed in 1.05 seconds
+Start of iteration 0 x 3
+Current loss value: 12851186688.0
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_0_3.png
+Iteration completed in 1.07 seconds
+Start of iteration 0 x 4
+Current loss value: 12632911872.0
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_0_4.png
+Iteration completed in 1.05 seconds
+Scale factor 0.625 "A" shape (1, 3, 494, 750) "B" shape (1, 3, 320, 427)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 56629780480.0
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_1_0.png
+Iteration completed in 3.28 seconds
+Start of iteration 1 x 1
+Current loss value: 51966226432.0
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_1_1.png
+Iteration completed in 3.28 seconds
+Start of iteration 1 x 2
+Current loss value: 49981915136.0
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_1_2.png
+Iteration completed in 3.26 seconds
+Start of iteration 1 x 3
+Current loss value: 48836182016.0
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_1_3.png
+Iteration completed in 3.25 seconds
+Start of iteration 1 x 4
+Current loss value: 48055443456.0
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_1_4.png
+Iteration completed in 3.28 seconds
+Scale factor 1.0 "A" shape (1, 3, 790, 1200) "B" shape (1, 3, 512, 683)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.3584846848e+11
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_2_0.png
+Iteration completed in 7.55 seconds
+Start of iteration 2 x 1
+Current loss value: 1.243930624e+11
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_2_1.png
+Iteration completed in 7.72 seconds
+Start of iteration 2 x 2
+Current loss value: 1.19730733056e+11
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_2_2.png
+Iteration completed in 7.72 seconds
+Start of iteration 2 x 3
+Current loss value: 1.17155946496e+11
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_2_3.png
+Iteration completed in 7.86 seconds
+Start of iteration 2 x 4
+Current loss value: 1.15249405952e+11
+Image saved as out/season-xfer-rev-analogy-only/season-xfer-rev-Bp_at_iteration_2_4.png
+Iteration completed in 7.88 seconds
+Done after 100.21 seconds
+Stock output (analogy and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 198, 300) "B" shape (1, 3, 128, 171)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 29895446528.0
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_0_0.png
+Iteration completed in 6.05 seconds
+Start of iteration 0 x 1
+Current loss value: 28142299136.0
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_0_1.png
+Iteration completed in 6.46 seconds
+Start of iteration 0 x 2
+Current loss value: 27412301824.0
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_0_2.png
+Iteration completed in 6.17 seconds
+Start of iteration 0 x 3
+Current loss value: 26984171520.0
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_0_3.png
+Iteration completed in 6.07 seconds
+Start of iteration 0 x 4
+Current loss value: 26873350144.0
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_0_4.png
+Iteration completed in 5.97 seconds
+Scale factor 0.625 "A" shape (1, 3, 494, 750) "B" shape (1, 3, 320, 427)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 1.45991090176e+11
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_1_0.png
+Iteration completed in 44.16 seconds
+Start of iteration 1 x 1
+Current loss value: 1.37345613824e+11
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_1_1.png
+Iteration completed in 45.29 seconds
+Start of iteration 1 x 2
+Current loss value: 1.33526626304e+11
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_1_2.png
+Iteration completed in 44.22 seconds
+Start of iteration 1 x 3
+Current loss value: 1.31006611456e+11
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_1_3.png
+Iteration completed in 44.17 seconds
+Start of iteration 1 x 4
+Current loss value: 1.29113513984e+11
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_1_4.png
+Iteration completed in 44.04 seconds
+Scale factor 1.0 "A" shape (1, 3, 790, 1200) "B" shape (1, 3, 512, 683)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 3.81762732032e+11
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_2_0.png
+Iteration completed in 167.72 seconds
+Start of iteration 2 x 1
+Current loss value: 3.59689158656e+11
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_2_1.png
+Iteration completed in 167.83 seconds
+Start of iteration 2 x 2
+Current loss value: 3.49075275776e+11
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_2_2.png
+Iteration completed in 167.33 seconds
+Start of iteration 2 x 3
+Current loss value: 3.42709600256e+11
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_2_3.png
+Iteration completed in 167.87 seconds
+Start of iteration 2 x 4
+Current loss value: 3.3799323648e+11
+Image saved as out/season-xfer-rev-blend/season-xfer-rev-Bp_at_iteration_2_4.png
+Iteration completed in 167.50 seconds
+Done after 1134.09 seconds
+Style transfer (content loss and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 198, 300) "B" shape (1, 3, 128, 171)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 44726059008.0
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_0_0.png
+Iteration completed in 5.99 seconds
+Start of iteration 0 x 1
+Current loss value: 42791542784.0
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_0_1.png
+Iteration completed in 5.94 seconds
+Start of iteration 0 x 2
+Current loss value: 42633334784.0
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_0_2.png
+Iteration completed in 5.57 seconds
+Start of iteration 0 x 3
+Current loss value: 43005583360.0
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_0_3.png
+Iteration completed in 5.49 seconds
+Start of iteration 0 x 4
+Current loss value: 42638225408.0
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_0_4.png
+Iteration completed in 5.63 seconds
+Scale factor 0.625 "A" shape (1, 3, 494, 750) "B" shape (1, 3, 320, 427)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 2.69313671168e+11
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_1_0.png
+Iteration completed in 44.47 seconds
+Start of iteration 1 x 1
+Current loss value: 2.62197280768e+11
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_1_1.png
+Iteration completed in 45.11 seconds
+Start of iteration 1 x 2
+Current loss value: 2.57833140224e+11
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_1_2.png
+Iteration completed in 44.66 seconds
+Start of iteration 1 x 3
+Current loss value: 2.55849070592e+11
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_1_3.png
+Iteration completed in 44.73 seconds
+Start of iteration 1 x 4
+Current loss value: 2.55367135232e+11
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_1_4.png
+Iteration completed in 44.74 seconds
+Scale factor 1.0 "A" shape (1, 3, 790, 1200) "B" shape (1, 3, 512, 683)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 7.47309891584e+11
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_2_0.png
+Iteration completed in 169.44 seconds
+Start of iteration 2 x 1
+Current loss value: 7.32522938368e+11
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_2_1.png
+Iteration completed in 168.69 seconds
+Start of iteration 2 x 2
+Current loss value: 7.27313874944e+11
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_2_2.png
+Iteration completed in 168.11 seconds
+Start of iteration 2 x 3
+Current loss value: 7.26544613376e+11
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_2_3.png
+Iteration completed in 166.72 seconds
+Start of iteration 2 x 4
+Current loss value: 7.26436020224e+11
+Image saved as out/season-xfer-rev-style-xfer/season-xfer-rev-Bp_at_iteration_2_4.png
+Iteration completed in 165.99 seconds
+Done after 1117.18 seconds
+Texture generator (local coherence only)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 198, 300) "B" shape (1, 3, 128, 171)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 7738026496.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_0_0.png
+Iteration completed in 5.97 seconds
+Start of iteration 0 x 1
+Current loss value: 6776377344.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_0_1.png
+Iteration completed in 6.21 seconds
+Start of iteration 0 x 2
+Current loss value: 6414539264.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_0_2.png
+Iteration completed in 6.16 seconds
+Start of iteration 0 x 3
+Current loss value: 6253418496.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_0_3.png
+Iteration completed in 6.19 seconds
+Start of iteration 0 x 4
+Current loss value: 6200083456.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_0_4.png
+Iteration completed in 5.95 seconds
+Scale factor 0.625 "A" shape (1, 3, 494, 750) "B" shape (1, 3, 320, 427)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 40640368640.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_1_0.png
+Iteration completed in 44.45 seconds
+Start of iteration 1 x 1
+Current loss value: 35981197312.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_1_1.png
+Iteration completed in 45.06 seconds
+Start of iteration 1 x 2
+Current loss value: 34072829952.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_1_2.png
+Iteration completed in 44.85 seconds
+Start of iteration 1 x 3
+Current loss value: 33162315776.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_1_3.png
+Iteration completed in 44.64 seconds
+Start of iteration 1 x 4
+Current loss value: 32638732288.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_1_4.png
+Iteration completed in 44.69 seconds
+Scale factor 1.0 "A" shape (1, 3, 790, 1200) "B" shape (1, 3, 512, 683)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 82097225728.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_2_0.png
+Iteration completed in 168.09 seconds
+Start of iteration 2 x 1
+Current loss value: 76063162368.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_2_1.png
+Iteration completed in 168.50 seconds
+Start of iteration 2 x 2
+Current loss value: 73760784384.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_2_2.png
+Iteration completed in 168.46 seconds
+Start of iteration 2 x 3
+Current loss value: 72590106624.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_2_3.png
+Iteration completed in 167.29 seconds
+Start of iteration 2 x 4
+Current loss value: 71905927168.0
+Image saved as out/season-xfer-rev-texture/season-xfer-rev-Bp_at_iteration_2_4.png
+Iteration completed in 167.74 seconds
+Done after 1115.84 seconds

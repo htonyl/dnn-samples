@@ -1,0 +1,328 @@
+Only using analogy loss
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 97) "B" shape (1, 3, 128, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 12708823040.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_0.png
+Iteration completed in 1.05 seconds
+Start of iteration 0 x 1
+Current loss value: 9229180928.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_1.png
+Iteration completed in 1.44 seconds
+Start of iteration 0 x 2
+Current loss value: 7733380608.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_2.png
+Iteration completed in 1.22 seconds
+Start of iteration 0 x 3
+Current loss value: 6917135360.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_3.png
+Iteration completed in 1.31 seconds
+Start of iteration 0 x 4
+Current loss value: 6312902656.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_4.png
+Iteration completed in 1.22 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 243) "B" shape (1, 3, 321, 296)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 20331053056.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_0.png
+Iteration completed in 3.29 seconds
+Start of iteration 1 x 1
+Current loss value: 17857228800.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_1.png
+Iteration completed in 3.57 seconds
+Start of iteration 1 x 2
+Current loss value: 16659429376.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_2.png
+Iteration completed in 3.20 seconds
+Start of iteration 1 x 3
+Current loss value: 15947539456.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_3.png
+Iteration completed in 3.34 seconds
+Start of iteration 1 x 4
+Current loss value: 15483297792.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_4.png
+Iteration completed in 3.20 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 388) "B" shape (1, 3, 513, 473)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 38727352320.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_0.png
+Iteration completed in 7.04 seconds
+Start of iteration 2 x 1
+Current loss value: 35338977280.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_1.png
+Iteration completed in 6.90 seconds
+Start of iteration 2 x 2
+Current loss value: 33696522240.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_2.png
+Iteration completed in 7.06 seconds
+Start of iteration 2 x 3
+Current loss value: 32668065792.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_3.png
+Iteration completed in 6.09 seconds
+Start of iteration 2 x 4
+Current loss value: 31945560064.0
+Image saved as out/img-quality-gaus-8.5-origc2s-analogy-only/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_4.png
+Iteration completed in 7.27 seconds
+Done after 89.56 seconds
+Stock output (analogy and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 97) "B" shape (1, 3, 128, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 20606511104.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_0.png
+Iteration completed in 5.52 seconds
+Start of iteration 0 x 1
+Current loss value: 15328262144.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_1.png
+Iteration completed in 5.39 seconds
+Start of iteration 0 x 2
+Current loss value: 12546387968.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_2.png
+Iteration completed in 5.84 seconds
+Start of iteration 0 x 3
+Current loss value: 11108554752.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_3.png
+Iteration completed in 5.03 seconds
+Start of iteration 0 x 4
+Current loss value: 10049451008.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_4.png
+Iteration completed in 5.79 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 243) "B" shape (1, 3, 321, 296)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 34899369984.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_0.png
+Iteration completed in 31.04 seconds
+Start of iteration 1 x 1
+Current loss value: 30305249280.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_1.png
+Iteration completed in 29.25 seconds
+Start of iteration 1 x 2
+Current loss value: 27913091072.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_2.png
+Iteration completed in 31.21 seconds
+Start of iteration 1 x 3
+Current loss value: 26401990656.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_3.png
+Iteration completed in 29.78 seconds
+Start of iteration 1 x 4
+Current loss value: 25370912768.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_4.png
+Iteration completed in 29.23 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 388) "B" shape (1, 3, 513, 473)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 61376118784.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_0.png
+Iteration completed in 79.10 seconds
+Start of iteration 2 x 1
+Current loss value: 56257548288.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_1.png
+Iteration completed in 77.82 seconds
+Start of iteration 2 x 2
+Current loss value: 53492477952.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_2.png
+Iteration completed in 81.62 seconds
+Start of iteration 2 x 3
+Current loss value: 51808759808.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_3.png
+Iteration completed in 81.44 seconds
+Start of iteration 2 x 4
+Current loss value: 50650165248.0
+Image saved as out/img-quality-gaus-8.5-origc2s-blend/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_4.png
+Iteration completed in 82.78 seconds
+Done after 626.09 seconds
+Style transfer (content loss and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 97) "B" shape (1, 3, 128, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 32698408960.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_0.png
+Iteration completed in 6.55 seconds
+Start of iteration 0 x 1
+Current loss value: 23837431808.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_1.png
+Iteration completed in 6.51 seconds
+Start of iteration 0 x 2
+Current loss value: 19809466368.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_2.png
+Iteration completed in 6.28 seconds
+Start of iteration 0 x 3
+Current loss value: 17341032448.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_3.png
+Iteration completed in 6.02 seconds
+Start of iteration 0 x 4
+Current loss value: 16022587392.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_4.png
+Iteration completed in 6.26 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 243) "B" shape (1, 3, 321, 296)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 63614111744.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_0.png
+Iteration completed in 27.08 seconds
+Start of iteration 1 x 1
+Current loss value: 57955737600.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_1.png
+Iteration completed in 22.62 seconds
+Start of iteration 1 x 2
+Current loss value: 55799939072.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_2.png
+Iteration completed in 28.42 seconds
+Start of iteration 1 x 3
+Current loss value: 54667554816.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_3.png
+Iteration completed in 28.29 seconds
+Start of iteration 1 x 4
+Current loss value: 53999845376.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_4.png
+Iteration completed in 28.00 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 388) "B" shape (1, 3, 513, 473)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.07012079616e+11
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_0.png
+Iteration completed in 77.11 seconds
+Start of iteration 2 x 1
+Current loss value: 1.02661292032e+11
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_1.png
+Iteration completed in 73.61 seconds
+Start of iteration 2 x 2
+Current loss value: 1.00534616064e+11
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_2.png
+Iteration completed in 81.69 seconds
+Start of iteration 2 x 3
+Current loss value: 99111321600.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_3.png
+Iteration completed in 83.87 seconds
+Start of iteration 2 x 4
+Current loss value: 98018123776.0
+Image saved as out/img-quality-gaus-8.5-origc2s-style-xfer/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_4.png
+Iteration completed in 81.07 seconds
+Done after 599.22 seconds
+Texture generator (local coherence only)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 97) "B" shape (1, 3, 128, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 15326526464.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_0.png
+Iteration completed in 5.95 seconds
+Start of iteration 0 x 1
+Current loss value: 12668780544.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_1.png
+Iteration completed in 6.13 seconds
+Start of iteration 0 x 2
+Current loss value: 11585340416.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_2.png
+Iteration completed in 6.10 seconds
+Start of iteration 0 x 3
+Current loss value: 11480421376.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_3.png
+Iteration completed in 5.70 seconds
+Start of iteration 0 x 4
+Current loss value: 11476614144.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_0_4.png
+Iteration completed in 4.78 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 243) "B" shape (1, 3, 321, 296)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 30182383616.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_0.png
+Iteration completed in 32.93 seconds
+Start of iteration 1 x 1
+Current loss value: 27146002432.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_1.png
+Iteration completed in 33.67 seconds
+Start of iteration 1 x 2
+Current loss value: 26107529216.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_2.png
+Iteration completed in 34.30 seconds
+Start of iteration 1 x 3
+Current loss value: 25901481984.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_3.png
+Iteration completed in 30.77 seconds
+Start of iteration 1 x 4
+Current loss value: 25836949504.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_1_4.png
+Iteration completed in 29.90 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 388) "B" shape (1, 3, 513, 473)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 39647039488.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_0.png
+Iteration completed in 81.90 seconds
+Start of iteration 2 x 1
+Current loss value: 36724178944.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_1.png
+Iteration completed in 79.27 seconds
+Start of iteration 2 x 2
+Current loss value: 35684818944.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_2.png
+Iteration completed in 74.02 seconds
+Start of iteration 2 x 3
+Current loss value: 35081789440.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_3.png
+Iteration completed in 56.98 seconds
+Start of iteration 2 x 4
+Current loss value: 34670186496.0
+Image saved as out/img-quality-gaus-8.5-origc2s-texture/img-quality-gaus-8.5-origc2s-Bp_at_iteration_2_4.png
+Iteration completed in 55.50 seconds
+Done after 565.12 seconds

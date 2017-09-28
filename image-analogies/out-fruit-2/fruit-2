@@ -1,0 +1,320 @@
+Only using analogy loss
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 226, 175) "B" shape (1, 3, 128, 116)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 10652226560.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_0_0.png
+Iteration completed in 1.44 seconds
+Start of iteration 0 x 1
+Current loss value: 9015216128.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_0_1.png
+Iteration completed in 1.19 seconds
+Start of iteration 0 x 2
+Current loss value: 8408870912.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_0_2.png
+Iteration completed in 0.85 seconds
+Start of iteration 0 x 3
+Current loss value: 8029277184.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_0_3.png
+Iteration completed in 1.03 seconds
+Start of iteration 0 x 4
+Current loss value: 7737265152.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_0_4.png
+Iteration completed in 1.15 seconds
+Scale factor 0.625 "A" shape (1, 3, 564, 438) "B" shape (1, 3, 320, 290)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 30025099264.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_1_0.png
+Iteration completed in 2.78 seconds
+Start of iteration 1 x 1
+Current loss value: 27335540736.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_1_1.png
+Iteration completed in 2.95 seconds
+Start of iteration 1 x 2
+Current loss value: 25921548288.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_1_2.png
+Iteration completed in 3.02 seconds
+Start of iteration 1 x 3
+Current loss value: 25017608192.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_1_3.png
+Iteration completed in 3.15 seconds
+Start of iteration 1 x 4
+Current loss value: 24376440832.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_1_4.png
+Iteration completed in 3.17 seconds
+Scale factor 1.0 "A" shape (1, 3, 903, 700) "B" shape (1, 3, 512, 464)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 55188684800.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_2_0.png
+Iteration completed in 6.55 seconds
+Start of iteration 2 x 1
+Current loss value: 50950373376.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_2_1.png
+Iteration completed in 6.36 seconds
+Start of iteration 2 x 2
+Current loss value: 48826662912.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_2_2.png
+Iteration completed in 6.85 seconds
+Start of iteration 2 x 3
+Current loss value: 47478161408.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_2_3.png
+Iteration completed in 6.71 seconds
+Start of iteration 2 x 4
+Current loss value: 46551195648.0
+Image saved as out/fruit-2-analogy-only/fruit-2-Bp_at_iteration_2_4.png
+Iteration completed in 6.72 seconds
+Done after 90.18 seconds
+Stock output (analogy and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 226, 175) "B" shape (1, 3, 128, 116)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 25342357504.0
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_0_0.png
+Iteration completed in 6.98 seconds
+Start of iteration 0 x 1
+Current loss value: 21945247744.0
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_0_1.png
+Iteration completed in 6.55 seconds
+Start of iteration 0 x 2
+Current loss value: 20467283968.0
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_0_2.png
+Iteration completed in 4.66 seconds
+Start of iteration 0 x 3
+Current loss value: 19910002688.0
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_0_3.png
+Iteration completed in 4.42 seconds
+Start of iteration 0 x 4
+Current loss value: 18966374400.0
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_0_4.png
+Iteration completed in 4.48 seconds
+Scale factor 0.625 "A" shape (1, 3, 564, 438) "B" shape (1, 3, 320, 290)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 70392250368.0
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_1_0.png
+Iteration completed in 36.32 seconds
+Start of iteration 1 x 1
+Current loss value: 66430156800.0
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_1_1.png
+Iteration completed in 40.73 seconds
+Start of iteration 1 x 2
+Current loss value: 64209080320.0
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_1_2.png
+Iteration completed in 41.61 seconds
+Start of iteration 1 x 3
+Current loss value: 62665584640.0
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_1_3.png
+Iteration completed in 36.75 seconds
+Start of iteration 1 x 4
+Current loss value: 61550379008.0
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_1_4.png
+Iteration completed in 42.78 seconds
+Scale factor 1.0 "A" shape (1, 3, 903, 700) "B" shape (1, 3, 512, 464)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.22819772416e+11
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_2_0.png
+Iteration completed in 139.49 seconds
+Start of iteration 2 x 1
+Current loss value: 1.16842020864e+11
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_2_1.png
+Iteration completed in 136.94 seconds
+Start of iteration 2 x 2
+Current loss value: 1.138405376e+11
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_2_2.png
+Iteration completed in 128.01 seconds
+Start of iteration 2 x 3
+Current loss value: 1.11894839296e+11
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_2_3.png
+Iteration completed in 138.18 seconds
+Start of iteration 2 x 4
+Current loss value: 1.10704607232e+11
+Image saved as out/fruit-2-blend/fruit-2-Bp_at_iteration_2_4.png
+Iteration completed in 136.70 seconds
+Done after 952.28 seconds
+Style transfer (content loss and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 226, 175) "B" shape (1, 3, 128, 116)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 50642653184.0
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_0_0.png
+Iteration completed in 7.33 seconds
+Start of iteration 0 x 1
+Current loss value: 43589840896.0
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_0_1.png
+Iteration completed in 7.13 seconds
+Start of iteration 0 x 2
+Current loss value: 40420950016.0
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_0_2.png
+Iteration completed in 6.94 seconds
+Start of iteration 0 x 3
+Current loss value: 38600458240.0
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_0_3.png
+Iteration completed in 5.90 seconds
+Start of iteration 0 x 4
+Current loss value: 38171734016.0
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_0_4.png
+Iteration completed in 6.49 seconds
+Scale factor 0.625 "A" shape (1, 3, 564, 438) "B" shape (1, 3, 320, 290)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 1.13950089216e+11
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_1_0.png
+Iteration completed in 44.43 seconds
+Start of iteration 1 x 1
+Current loss value: 1.08361252864e+11
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_1_1.png
+Iteration completed in 41.84 seconds
+Start of iteration 1 x 2
+Current loss value: 1.05659383808e+11
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_1_2.png
+Iteration completed in 40.82 seconds
+Start of iteration 1 x 3
+Current loss value: 1.04116011008e+11
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_1_3.png
+Iteration completed in 33.54 seconds
+Start of iteration 1 x 4
+Current loss value: 1.02777520128e+11
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_1_4.png
+Iteration completed in 36.37 seconds
+Scale factor 1.0 "A" shape (1, 3, 903, 700) "B" shape (1, 3, 512, 464)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.86741178368e+11
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_2_0.png
+Iteration completed in 126.87 seconds
+Start of iteration 2 x 1
+Current loss value: 1.79300139008e+11
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_2_1.png
+Iteration completed in 135.18 seconds
+Start of iteration 2 x 2
+Current loss value: 1.74825914368e+11
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_2_2.png
+Iteration completed in 143.42 seconds
+Start of iteration 2 x 3
+Current loss value: 1.72286132224e+11
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_2_3.png
+Iteration completed in 143.89 seconds
+Start of iteration 2 x 4
+Current loss value: 1.71355848704e+11
+Image saved as out/fruit-2-style-xfer/fruit-2-Bp_at_iteration_2_4.png
+Iteration completed in 135.11 seconds
+Done after 946.08 seconds
+Texture generator (local coherence only)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 226, 175) "B" shape (1, 3, 128, 116)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 13451150336.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_0_0.png
+Iteration completed in 7.44 seconds
+Start of iteration 0 x 1
+Current loss value: 11502607360.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_0_1.png
+Iteration completed in 6.96 seconds
+Start of iteration 0 x 2
+Current loss value: 10669632512.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_0_2.png
+Iteration completed in 7.46 seconds
+Start of iteration 0 x 3
+Current loss value: 10404766720.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_0_3.png
+Iteration completed in 6.56 seconds
+Start of iteration 0 x 4
+Current loss value: 10344991744.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_0_4.png
+Iteration completed in 6.66 seconds
+Scale factor 0.625 "A" shape (1, 3, 564, 438) "B" shape (1, 3, 320, 290)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 28589639680.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_1_0.png
+Iteration completed in 43.39 seconds
+Start of iteration 1 x 1
+Current loss value: 25917376512.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_1_1.png
+Iteration completed in 43.12 seconds
+Start of iteration 1 x 2
+Current loss value: 24908148736.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_1_2.png
+Iteration completed in 39.32 seconds
+Start of iteration 1 x 3
+Current loss value: 24726407168.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_1_3.png
+Iteration completed in 45.42 seconds
+Start of iteration 1 x 4
+Current loss value: 24726052864.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_1_4.png
+Iteration completed in 43.97 seconds
+Scale factor 1.0 "A" shape (1, 3, 903, 700) "B" shape (1, 3, 512, 464)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 39217721344.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_2_0.png
+Iteration completed in 142.73 seconds
+Start of iteration 2 x 1
+Current loss value: 36321419264.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_2_1.png
+Iteration completed in 140.58 seconds
+Start of iteration 2 x 2
+Current loss value: 35158523904.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_2_2.png
+Iteration completed in 143.90 seconds
+Start of iteration 2 x 3
+Current loss value: 34546372608.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_2_3.png
+Iteration completed in 142.60 seconds
+Start of iteration 2 x 4
+Current loss value: 34039431168.0
+Image saved as out/fruit-2-texture/fruit-2-Bp_at_iteration_2_4.png
+Iteration completed in 141.62 seconds
+Done after 991.93 seconds

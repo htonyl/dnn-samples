@@ -1,0 +1,328 @@
+Only using analogy loss
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 95) "B" shape (1, 3, 128, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 18120421376.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_0_0.png
+Iteration completed in 1.48 seconds
+Start of iteration 0 x 1
+Current loss value: 15986448384.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_0_1.png
+Iteration completed in 1.50 seconds
+Start of iteration 0 x 2
+Current loss value: 15115855872.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_0_2.png
+Iteration completed in 1.35 seconds
+Start of iteration 0 x 3
+Current loss value: 14612699136.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_0_3.png
+Iteration completed in 1.33 seconds
+Start of iteration 0 x 4
+Current loss value: 14283718656.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_0_4.png
+Iteration completed in 1.32 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 238) "B" shape (1, 3, 321, 296)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 46270939136.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_1_0.png
+Iteration completed in 4.09 seconds
+Start of iteration 1 x 1
+Current loss value: 43424096256.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_1_1.png
+Iteration completed in 3.56 seconds
+Start of iteration 1 x 2
+Current loss value: 42135683072.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_1_2.png
+Iteration completed in 3.74 seconds
+Start of iteration 1 x 3
+Current loss value: 41295314944.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_1_3.png
+Iteration completed in 3.58 seconds
+Start of iteration 1 x 4
+Current loss value: 40696655872.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_1_4.png
+Iteration completed in 3.90 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 381) "B" shape (1, 3, 513, 473)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 95128330240.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_2_0.png
+Iteration completed in 7.07 seconds
+Start of iteration 2 x 1
+Current loss value: 89622937600.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_2_1.png
+Iteration completed in 6.90 seconds
+Start of iteration 2 x 2
+Current loss value: 86958055424.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_2_2.png
+Iteration completed in 7.32 seconds
+Start of iteration 2 x 3
+Current loss value: 85220384768.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_2_3.png
+Iteration completed in 6.96 seconds
+Start of iteration 2 x 4
+Current loss value: 83957317632.0
+Image saved as out/fruit-mirror-analogy-only/fruit-mirror-Bp_at_iteration_2_4.png
+Iteration completed in 7.04 seconds
+Done after 102.07 seconds
+Stock output (analogy and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 95) "B" shape (1, 3, 128, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 35508277248.0
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_0_0.png
+Iteration completed in 5.91 seconds
+Start of iteration 0 x 1
+Current loss value: 31577235456.0
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_0_1.png
+Iteration completed in 5.89 seconds
+Start of iteration 0 x 2
+Current loss value: 29977305088.0
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_0_2.png
+Iteration completed in 5.78 seconds
+Start of iteration 0 x 3
+Current loss value: 29162446848.0
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_0_3.png
+Iteration completed in 7.37 seconds
+Start of iteration 0 x 4
+Current loss value: 28518363136.0
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_0_4.png
+Iteration completed in 6.85 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 238) "B" shape (1, 3, 321, 296)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 1.07508752384e+11
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_1_0.png
+Iteration completed in 42.07 seconds
+Start of iteration 1 x 1
+Current loss value: 1.05489522688e+11
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_1_1.png
+Iteration completed in 41.24 seconds
+Start of iteration 1 x 2
+Current loss value: 1.05040871424e+11
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_1_2.png
+Iteration completed in 34.56 seconds
+Start of iteration 1 x 3
+Current loss value: 1.04970379264e+11
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_1_3.png
+Iteration completed in 34.43 seconds
+Start of iteration 1 x 4
+Current loss value: 1.04990793728e+11
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_1_4.png
+Iteration completed in 44.84 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 381) "B" shape (1, 3, 513, 473)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 2.1660213248e+11
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_2_0.png
+Iteration completed in 164.28 seconds
+Start of iteration 2 x 1
+Current loss value: 2.11908509696e+11
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_2_1.png
+Iteration completed in 152.47 seconds
+Start of iteration 2 x 2
+Current loss value: 2.09492017152e+11
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_2_2.png
+Iteration completed in 176.54 seconds
+Start of iteration 2 x 3
+Current loss value: 2.07717236736e+11
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_2_3.png
+Iteration completed in 176.35 seconds
+Start of iteration 2 x 4
+Current loss value: 2.06554742784e+11
+Image saved as out/fruit-mirror-blend/fruit-mirror-Bp_at_iteration_2_4.png
+Iteration completed in 172.59 seconds
+Done after 1121.39 seconds
+Style transfer (content loss and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 95) "B" shape (1, 3, 128, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 43270463488.0
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_0_0.png
+Iteration completed in 10.39 seconds
+Start of iteration 0 x 1
+Current loss value: 38377050112.0
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_0_1.png
+Iteration completed in 11.80 seconds
+Start of iteration 0 x 2
+Current loss value: 37318537216.0
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_0_2.png
+Iteration completed in 12.08 seconds
+Start of iteration 0 x 3
+Current loss value: 37317193728.0
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_0_3.png
+Iteration completed in 10.65 seconds
+Start of iteration 0 x 4
+Current loss value: 37261946880.0
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_0_4.png
+Iteration completed in 11.11 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 238) "B" shape (1, 3, 321, 296)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 1.1620171776e+11
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_1_0.png
+Iteration completed in 71.20 seconds
+Start of iteration 1 x 1
+Current loss value: 1.09156204544e+11
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_1_1.png
+Iteration completed in 67.36 seconds
+Start of iteration 1 x 2
+Current loss value: 1.0645024768e+11
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_1_2.png
+Iteration completed in 59.40 seconds
+Start of iteration 1 x 3
+Current loss value: 1.04733728768e+11
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_1_3.png
+Iteration completed in 61.43 seconds
+Start of iteration 1 x 4
+Current loss value: 1.03018831872e+11
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_1_4.png
+Iteration completed in 64.74 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 381) "B" shape (1, 3, 513, 473)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.77485692928e+11
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_2_0.png
+Iteration completed in 180.78 seconds
+Start of iteration 2 x 1
+Current loss value: 1.70877796352e+11
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_2_1.png
+Iteration completed in 176.09 seconds
+Start of iteration 2 x 2
+Current loss value: 1.6757456896e+11
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_2_2.png
+Iteration completed in 189.06 seconds
+Start of iteration 2 x 3
+Current loss value: 1.655513088e+11
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_2_3.png
+Iteration completed in 185.81 seconds
+Start of iteration 2 x 4
+Current loss value: 1.64049256448e+11
+Image saved as out/fruit-mirror-style-xfer/fruit-mirror-Bp_at_iteration_2_4.png
+Iteration completed in 187.07 seconds
+Done after 1331.35 seconds
+Texture generator (local coherence only)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 95) "B" shape (1, 3, 128, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 18822916096.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_0_0.png
+Iteration completed in 9.81 seconds
+Start of iteration 0 x 1
+Current loss value: 16212098048.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_0_1.png
+Iteration completed in 11.49 seconds
+Start of iteration 0 x 2
+Current loss value: 15252177920.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_0_2.png
+Iteration completed in 10.17 seconds
+Start of iteration 0 x 3
+Current loss value: 15126022144.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_0_3.png
+Iteration completed in 11.12 seconds
+Start of iteration 0 x 4
+Current loss value: 15126769664.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_0_4.png
+Iteration completed in 11.39 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 238) "B" shape (1, 3, 321, 296)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 34664988672.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_1_0.png
+Iteration completed in 70.40 seconds
+Start of iteration 1 x 1
+Current loss value: 31802034176.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_1_1.png
+Iteration completed in 66.07 seconds
+Start of iteration 1 x 2
+Current loss value: 30645004288.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_1_2.png
+Iteration completed in 49.56 seconds
+Start of iteration 1 x 3
+Current loss value: 30101274624.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_1_3.png
+Iteration completed in 47.68 seconds
+Start of iteration 1 x 4
+Current loss value: 29708388352.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_1_4.png
+Iteration completed in 46.28 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 381) "B" shape (1, 3, 513, 473)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 44398567424.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_2_0.png
+Iteration completed in 114.84 seconds
+Start of iteration 2 x 1
+Current loss value: 41621016576.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_2_1.png
+Iteration completed in 110.79 seconds
+Start of iteration 2 x 2
+Current loss value: 40491974656.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_2_2.png
+Iteration completed in 124.37 seconds
+Start of iteration 2 x 3
+Current loss value: 39744876544.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_2_3.png
+Iteration completed in 124.26 seconds
+Start of iteration 2 x 4
+Current loss value: 39272304640.0
+Image saved as out/fruit-mirror-texture/fruit-mirror-Bp_at_iteration_2_4.png
+Iteration completed in 123.88 seconds
+Done after 955.90 seconds

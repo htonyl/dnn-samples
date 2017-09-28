@@ -1,0 +1,320 @@
+Only using analogy loss
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 104, 38) "B" shape (1, 3, 128, 47)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 9031639040.0
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_0_0.png
+Iteration completed in 0.59 seconds
+Start of iteration 0 x 1
+Current loss value: 7711665152.0
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_0_1.png
+Iteration completed in 0.47 seconds
+Start of iteration 0 x 2
+Current loss value: 7283058688.0
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_0_2.png
+Iteration completed in 0.48 seconds
+Start of iteration 0 x 3
+Current loss value: 7054649856.0
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_0_3.png
+Iteration completed in 0.48 seconds
+Start of iteration 0 x 4
+Current loss value: 6893517824.0
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_0_4.png
+Iteration completed in 0.47 seconds
+Scale factor 0.625 "A" shape (1, 3, 259, 96) "B" shape (1, 3, 321, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 58322923520.0
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_1_0.png
+Iteration completed in 1.27 seconds
+Start of iteration 1 x 1
+Current loss value: 54350553088.0
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_1_1.png
+Iteration completed in 1.24 seconds
+Start of iteration 1 x 2
+Current loss value: 52600201216.0
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_1_2.png
+Iteration completed in 1.16 seconds
+Start of iteration 1 x 3
+Current loss value: 51577790464.0
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_1_3.png
+Iteration completed in 1.14 seconds
+Start of iteration 1 x 4
+Current loss value: 50937602048.0
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_1_4.png
+Iteration completed in 1.15 seconds
+Scale factor 1.0 "A" shape (1, 3, 414, 153) "B" shape (1, 3, 511, 188)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.11490531328e+11
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_2_0.png
+Iteration completed in 2.45 seconds
+Start of iteration 2 x 1
+Current loss value: 1.05749676032e+11
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_2_1.png
+Iteration completed in 2.35 seconds
+Start of iteration 2 x 2
+Current loss value: 1.03174373376e+11
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_2_2.png
+Iteration completed in 2.36 seconds
+Start of iteration 2 x 3
+Current loss value: 1.01517156352e+11
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_2_3.png
+Iteration completed in 2.36 seconds
+Start of iteration 2 x 4
+Current loss value: 1.00398055424e+11
+Image saved as out/parent-kid-analogy-only/parent-kid-Bp_at_iteration_2_4.png
+Iteration completed in 2.35 seconds
+Done after 51.17 seconds
+Stock output (analogy and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 104, 38) "B" shape (1, 3, 128, 47)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 14825131008.0
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_0_0.png
+Iteration completed in 1.24 seconds
+Start of iteration 0 x 1
+Current loss value: 12833690624.0
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_0_1.png
+Iteration completed in 1.22 seconds
+Start of iteration 0 x 2
+Current loss value: 12198398976.0
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_0_2.png
+Iteration completed in 1.21 seconds
+Start of iteration 0 x 3
+Current loss value: 11886325760.0
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_0_3.png
+Iteration completed in 1.23 seconds
+Start of iteration 0 x 4
+Current loss value: 11738536960.0
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_0_4.png
+Iteration completed in 1.24 seconds
+Scale factor 0.625 "A" shape (1, 3, 259, 96) "B" shape (1, 3, 321, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 1.27017099264e+11
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_1_0.png
+Iteration completed in 6.35 seconds
+Start of iteration 1 x 1
+Current loss value: 1.15670040576e+11
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_1_1.png
+Iteration completed in 6.50 seconds
+Start of iteration 1 x 2
+Current loss value: 1.10475706368e+11
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_1_2.png
+Iteration completed in 6.22 seconds
+Start of iteration 1 x 3
+Current loss value: 1.07944697856e+11
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_1_3.png
+Iteration completed in 6.32 seconds
+Start of iteration 1 x 4
+Current loss value: 1.05844211712e+11
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_1_4.png
+Iteration completed in 6.22 seconds
+Scale factor 1.0 "A" shape (1, 3, 414, 153) "B" shape (1, 3, 511, 188)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 2.6633715712e+11
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_2_0.png
+Iteration completed in 15.91 seconds
+Start of iteration 2 x 1
+Current loss value: 2.58309062656e+11
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_2_1.png
+Iteration completed in 15.99 seconds
+Start of iteration 2 x 2
+Current loss value: 2.54498193408e+11
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_2_2.png
+Iteration completed in 15.80 seconds
+Start of iteration 2 x 3
+Current loss value: 2.51590033408e+11
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_2_3.png
+Iteration completed in 15.84 seconds
+Start of iteration 2 x 4
+Current loss value: 2.49645203456e+11
+Image saved as out/parent-kid-blend/parent-kid-Bp_at_iteration_2_4.png
+Iteration completed in 16.06 seconds
+Done after 150.99 seconds
+Style transfer (content loss and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 104, 38) "B" shape (1, 3, 128, 47)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 26647289856.0
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_0_0.png
+Iteration completed in 1.21 seconds
+Start of iteration 0 x 1
+Current loss value: 23178866688.0
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_0_1.png
+Iteration completed in 1.19 seconds
+Start of iteration 0 x 2
+Current loss value: 22257702912.0
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_0_2.png
+Iteration completed in 1.18 seconds
+Start of iteration 0 x 3
+Current loss value: 21949999104.0
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_0_3.png
+Iteration completed in 1.12 seconds
+Start of iteration 0 x 4
+Current loss value: 21919848448.0
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_0_4.png
+Iteration completed in 1.05 seconds
+Scale factor 0.625 "A" shape (1, 3, 259, 96) "B" shape (1, 3, 321, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 2.10695831552e+11
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_1_0.png
+Iteration completed in 6.05 seconds
+Start of iteration 1 x 1
+Current loss value: 1.97713625088e+11
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_1_1.png
+Iteration completed in 5.99 seconds
+Start of iteration 1 x 2
+Current loss value: 1.92492453888e+11
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_1_2.png
+Iteration completed in 6.14 seconds
+Start of iteration 1 x 3
+Current loss value: 1.89863657472e+11
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_1_3.png
+Iteration completed in 6.11 seconds
+Start of iteration 1 x 4
+Current loss value: 1.89420568576e+11
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_1_4.png
+Iteration completed in 6.05 seconds
+Scale factor 1.0 "A" shape (1, 3, 414, 153) "B" shape (1, 3, 511, 188)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 4.67720568832e+11
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_2_0.png
+Iteration completed in 15.87 seconds
+Start of iteration 2 x 1
+Current loss value: 4.56867086336e+11
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_2_1.png
+Iteration completed in 15.75 seconds
+Start of iteration 2 x 2
+Current loss value: 4.5253230592e+11
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_2_2.png
+Iteration completed in 15.47 seconds
+Start of iteration 2 x 3
+Current loss value: 4.52085055488e+11
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_2_3.png
+Iteration completed in 15.29 seconds
+Start of iteration 2 x 4
+Current loss value: 4.5188005888e+11
+Image saved as out/parent-kid-style-xfer/parent-kid-Bp_at_iteration_2_4.png
+Iteration completed in 15.08 seconds
+Done after 140.04 seconds
+Texture generator (local coherence only)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 104, 38) "B" shape (1, 3, 128, 47)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 5684403200.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_0_0.png
+Iteration completed in 1.22 seconds
+Start of iteration 0 x 1
+Current loss value: 4984173568.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_0_1.png
+Iteration completed in 1.22 seconds
+Start of iteration 0 x 2
+Current loss value: 4631858688.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_0_2.png
+Iteration completed in 1.18 seconds
+Start of iteration 0 x 3
+Current loss value: 4503572480.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_0_3.png
+Iteration completed in 1.18 seconds
+Start of iteration 0 x 4
+Current loss value: 4490561536.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_0_4.png
+Iteration completed in 0.99 seconds
+Scale factor 0.625 "A" shape (1, 3, 259, 96) "B" shape (1, 3, 321, 118)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 44487544832.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_1_0.png
+Iteration completed in 6.06 seconds
+Start of iteration 1 x 1
+Current loss value: 36195123200.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_1_1.png
+Iteration completed in 6.07 seconds
+Start of iteration 1 x 2
+Current loss value: 34370318336.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_1_2.png
+Iteration completed in 6.15 seconds
+Start of iteration 1 x 3
+Current loss value: 33409511424.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_1_3.png
+Iteration completed in 6.24 seconds
+Start of iteration 1 x 4
+Current loss value: 32940783616.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_1_4.png
+Iteration completed in 6.11 seconds
+Scale factor 1.0 "A" shape (1, 3, 414, 153) "B" shape (1, 3, 511, 188)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 63343706112.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_2_0.png
+Iteration completed in 15.71 seconds
+Start of iteration 2 x 1
+Current loss value: 58598989824.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_2_1.png
+Iteration completed in 15.58 seconds
+Start of iteration 2 x 2
+Current loss value: 56682815488.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_2_2.png
+Iteration completed in 15.56 seconds
+Start of iteration 2 x 3
+Current loss value: 55445569536.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_2_3.png
+Iteration completed in 15.60 seconds
+Start of iteration 2 x 4
+Current loss value: 54653386752.0
+Image saved as out/parent-kid-texture/parent-kid-Bp_at_iteration_2_4.png
+Iteration completed in 15.64 seconds
+Done after 135.80 seconds

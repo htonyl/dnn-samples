@@ -1,0 +1,320 @@
+Only using analogy loss
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 1: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 97) "B" shape (1, 3, 128, 116)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 15879598080.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_0_0.png
+Iteration completed in 0.82 seconds
+Start of iteration 0 x 1
+Current loss value: 13148176384.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_0_1.png
+Iteration completed in 0.78 seconds
+Start of iteration 0 x 2
+Current loss value: 12032689152.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_0_2.png
+Iteration completed in 0.78 seconds
+Start of iteration 0 x 3
+Current loss value: 11412401152.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_0_3.png
+Iteration completed in 0.76 seconds
+Start of iteration 0 x 4
+Current loss value: 10972786688.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_0_4.png
+Iteration completed in 0.79 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 243) "B" shape (1, 3, 320, 290)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 33840631808.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_1_0.png
+Iteration completed in 2.45 seconds
+Start of iteration 1 x 1
+Current loss value: 31000602624.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_1_1.png
+Iteration completed in 2.39 seconds
+Start of iteration 1 x 2
+Current loss value: 29490429952.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_1_2.png
+Iteration completed in 2.32 seconds
+Start of iteration 1 x 3
+Current loss value: 28495517696.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_1_3.png
+Iteration completed in 2.28 seconds
+Start of iteration 1 x 4
+Current loss value: 27790356480.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_1_4.png
+Iteration completed in 2.23 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 388) "B" shape (1, 3, 512, 464)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 59673141248.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_2_0.png
+Iteration completed in 5.06 seconds
+Start of iteration 2 x 1
+Current loss value: 54748975104.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_2_1.png
+Iteration completed in 5.89 seconds
+Start of iteration 2 x 2
+Current loss value: 52383268864.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_2_2.png
+Iteration completed in 6.14 seconds
+Start of iteration 2 x 3
+Current loss value: 50875035648.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_2_3.png
+Iteration completed in 5.66 seconds
+Start of iteration 2 x 4
+Current loss value: 49815535616.0
+Image saved as out/img-quality-gaus-8.5-simp-analogy-only/img-quality-gaus-8.5-simp-Bp_at_iteration_2_4.png
+Iteration completed in 5.23 seconds
+Done after 75.15 seconds
+Stock output (analogy and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 1: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 97) "B" shape (1, 3, 128, 116)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 28588374016.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_0_0.png
+Iteration completed in 3.08 seconds
+Start of iteration 0 x 1
+Current loss value: 23935123456.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_0_1.png
+Iteration completed in 3.37 seconds
+Start of iteration 0 x 2
+Current loss value: 21745993728.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_0_2.png
+Iteration completed in 3.09 seconds
+Start of iteration 0 x 3
+Current loss value: 20606676992.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_0_3.png
+Iteration completed in 3.28 seconds
+Start of iteration 0 x 4
+Current loss value: 19759560704.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_0_4.png
+Iteration completed in 3.24 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 243) "B" shape (1, 3, 320, 290)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 61835423744.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_1_0.png
+Iteration completed in 17.27 seconds
+Start of iteration 1 x 1
+Current loss value: 56709734400.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_1_1.png
+Iteration completed in 14.90 seconds
+Start of iteration 1 x 2
+Current loss value: 54131900416.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_1_2.png
+Iteration completed in 15.27 seconds
+Start of iteration 1 x 3
+Current loss value: 52489760768.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_1_3.png
+Iteration completed in 15.53 seconds
+Start of iteration 1 x 4
+Current loss value: 51067695104.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_1_4.png
+Iteration completed in 15.41 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 388) "B" shape (1, 3, 512, 464)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.04330379264e+11
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_2_0.png
+Iteration completed in 45.16 seconds
+Start of iteration 2 x 1
+Current loss value: 97425375232.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_2_1.png
+Iteration completed in 44.88 seconds
+Start of iteration 2 x 2
+Current loss value: 93936517120.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_2_2.png
+Iteration completed in 45.84 seconds
+Start of iteration 2 x 3
+Current loss value: 91555176448.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_2_3.png
+Iteration completed in 44.94 seconds
+Start of iteration 2 x 4
+Current loss value: 90025508864.0
+Image saved as out/img-quality-gaus-8.5-simp-blend/img-quality-gaus-8.5-simp-Bp_at_iteration_2_4.png
+Iteration completed in 45.00 seconds
+Done after 358.69 seconds
+Style transfer (content loss and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 1: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 97) "B" shape (1, 3, 128, 116)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 53126889472.0
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_0_0.png
+Iteration completed in 3.18 seconds
+Start of iteration 0 x 1
+Current loss value: 42534313984.0
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_0_1.png
+Iteration completed in 3.28 seconds
+Start of iteration 0 x 2
+Current loss value: 38892724224.0
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_0_2.png
+Iteration completed in 2.98 seconds
+Start of iteration 0 x 3
+Current loss value: 36367478784.0
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_0_3.png
+Iteration completed in 3.03 seconds
+Start of iteration 0 x 4
+Current loss value: 34159982592.0
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_0_4.png
+Iteration completed in 3.04 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 243) "B" shape (1, 3, 320, 290)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 92956966912.0
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_1_0.png
+Iteration completed in 15.63 seconds
+Start of iteration 1 x 1
+Current loss value: 88911495168.0
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_1_1.png
+Iteration completed in 17.37 seconds
+Start of iteration 1 x 2
+Current loss value: 88468742144.0
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_1_2.png
+Iteration completed in 14.87 seconds
+Start of iteration 1 x 3
+Current loss value: 88499208192.0
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_1_3.png
+Iteration completed in 15.02 seconds
+Start of iteration 1 x 4
+Current loss value: 88466939904.0
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_1_4.png
+Iteration completed in 15.46 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 388) "B" shape (1, 3, 512, 464)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.51497834496e+11
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_2_0.png
+Iteration completed in 49.86 seconds
+Start of iteration 2 x 1
+Current loss value: 1.46200018944e+11
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_2_1.png
+Iteration completed in 48.21 seconds
+Start of iteration 2 x 2
+Current loss value: 1.43813705728e+11
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_2_2.png
+Iteration completed in 46.49 seconds
+Start of iteration 2 x 3
+Current loss value: 1.43288696832e+11
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_2_3.png
+Iteration completed in 45.14 seconds
+Start of iteration 2 x 4
+Current loss value: 1.43144697856e+11
+Image saved as out/img-quality-gaus-8.5-simp-style-xfer/img-quality-gaus-8.5-simp-Bp_at_iteration_2_4.png
+Iteration completed in 45.50 seconds
+Done after 360.25 seconds
+Texture generator (local coherence only)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 1: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 105, 97) "B" shape (1, 3, 128, 116)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 14911752192.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_0_0.png
+Iteration completed in 3.14 seconds
+Start of iteration 0 x 1
+Current loss value: 12476495872.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_0_1.png
+Iteration completed in 3.14 seconds
+Start of iteration 0 x 2
+Current loss value: 11533305856.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_0_2.png
+Iteration completed in 3.13 seconds
+Start of iteration 0 x 3
+Current loss value: 11543476224.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_0_3.png
+Iteration completed in 2.79 seconds
+Start of iteration 0 x 4
+Current loss value: 11522136064.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_0_4.png
+Iteration completed in 2.53 seconds
+Scale factor 0.625 "A" shape (1, 3, 263, 243) "B" shape (1, 3, 320, 290)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 29715200000.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_1_0.png
+Iteration completed in 16.02 seconds
+Start of iteration 1 x 1
+Current loss value: 27168485376.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_1_1.png
+Iteration completed in 15.96 seconds
+Start of iteration 1 x 2
+Current loss value: 26018721792.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_1_2.png
+Iteration completed in 17.47 seconds
+Start of iteration 1 x 3
+Current loss value: 25353039872.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_1_3.png
+Iteration completed in 16.31 seconds
+Start of iteration 1 x 4
+Current loss value: 25225844736.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_1_4.png
+Iteration completed in 15.72 seconds
+Scale factor 1.0 "A" shape (1, 3, 420, 388) "B" shape (1, 3, 512, 464)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 40459436032.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_2_0.png
+Iteration completed in 46.48 seconds
+Start of iteration 2 x 1
+Current loss value: 37842178048.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_2_1.png
+Iteration completed in 46.72 seconds
+Start of iteration 2 x 2
+Current loss value: 36747915264.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_2_2.png
+Iteration completed in 47.25 seconds
+Start of iteration 2 x 3
+Current loss value: 35969884160.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_2_3.png
+Iteration completed in 46.70 seconds
+Start of iteration 2 x 4
+Current loss value: 35553779712.0
+Image saved as out/img-quality-gaus-8.5-simp-texture/img-quality-gaus-8.5-simp-Bp_at_iteration_2_4.png
+Iteration completed in 46.73 seconds
+Done after 354.01 seconds

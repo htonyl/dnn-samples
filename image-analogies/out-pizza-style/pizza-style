@@ -1,0 +1,328 @@
+Only using analogy loss
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 256, 256) "B" shape (1, 3, 128, 106)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 14826813440.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_0_0.png
+Iteration completed in 0.83 seconds
+Start of iteration 0 x 1
+Current loss value: 12283085824.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_0_1.png
+Iteration completed in 0.78 seconds
+Start of iteration 0 x 2
+Current loss value: 11434704896.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_0_2.png
+Iteration completed in 0.77 seconds
+Start of iteration 0 x 3
+Current loss value: 10949670912.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_0_3.png
+Iteration completed in 0.77 seconds
+Start of iteration 0 x 4
+Current loss value: 10626588672.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_0_4.png
+Iteration completed in 0.77 seconds
+Scale factor 0.625 "A" shape (1, 3, 640, 640) "B" shape (1, 3, 319, 264)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 39515697152.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_1_0.png
+Iteration completed in 2.33 seconds
+Start of iteration 1 x 1
+Current loss value: 35426791424.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_1_1.png
+Iteration completed in 2.20 seconds
+Start of iteration 1 x 2
+Current loss value: 33393065984.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_1_2.png
+Iteration completed in 2.16 seconds
+Start of iteration 1 x 3
+Current loss value: 31903612928.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_1_3.png
+Iteration completed in 2.16 seconds
+Start of iteration 1 x 4
+Current loss value: 30749499392.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_1_4.png
+Iteration completed in 2.22 seconds
+Scale factor 1.0 "A" shape (1, 3, 1024, 1024) "B" shape (1, 3, 511, 423)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 68110196736.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_2_0.png
+Iteration completed in 4.94 seconds
+Start of iteration 2 x 1
+Current loss value: 62255120384.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_2_1.png
+Iteration completed in 5.10 seconds
+Start of iteration 2 x 2
+Current loss value: 59371507712.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_2_2.png
+Iteration completed in 5.20 seconds
+Start of iteration 2 x 3
+Current loss value: 57513934848.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_2_3.png
+Iteration completed in 5.10 seconds
+Start of iteration 2 x 4
+Current loss value: 56148385792.0
+Image saved as out/pizza-style-analogy-only/pizza-style-Bp_at_iteration_2_4.png
+Iteration completed in 5.06 seconds
+Done after 77.66 seconds
+Stock output (analogy and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 256, 256) "B" shape (1, 3, 128, 106)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 28129732608.0
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_0_0.png
+Iteration completed in 5.28 seconds
+Start of iteration 0 x 1
+Current loss value: 24811681792.0
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_0_1.png
+Iteration completed in 5.39 seconds
+Start of iteration 0 x 2
+Current loss value: 23640877056.0
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_0_2.png
+Iteration completed in 5.35 seconds
+Start of iteration 0 x 3
+Current loss value: 22995525632.0
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_0_3.png
+Iteration completed in 5.40 seconds
+Start of iteration 0 x 4
+Current loss value: 22777661440.0
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_0_4.png
+Iteration completed in 5.55 seconds
+Scale factor 0.625 "A" shape (1, 3, 640, 640) "B" shape (1, 3, 319, 264)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 82667544576.0
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_1_0.png
+Iteration completed in 36.24 seconds
+Start of iteration 1 x 1
+Current loss value: 76045099008.0
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_1_1.png
+Iteration completed in 36.05 seconds
+Start of iteration 1 x 2
+Current loss value: 73134104576.0
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_1_2.png
+Iteration completed in 36.43 seconds
+Start of iteration 1 x 3
+Current loss value: 71262380032.0
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_1_3.png
+Iteration completed in 36.03 seconds
+Start of iteration 1 x 4
+Current loss value: 69780930560.0
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_1_4.png
+Iteration completed in 36.24 seconds
+Scale factor 1.0 "A" shape (1, 3, 1024, 1024) "B" shape (1, 3, 511, 423)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 1.51885856768e+11
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_2_0.png
+Iteration completed in 127.68 seconds
+Start of iteration 2 x 1
+Current loss value: 1.420652544e+11
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_2_1.png
+Iteration completed in 127.52 seconds
+Start of iteration 2 x 2
+Current loss value: 1.36283406336e+11
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_2_2.png
+Iteration completed in 127.53 seconds
+Start of iteration 2 x 3
+Current loss value: 1.32753227776e+11
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_2_3.png
+Iteration completed in 127.32 seconds
+Start of iteration 2 x 4
+Current loss value: 1.30213249024e+11
+Image saved as out/pizza-style-blend/pizza-style-Bp_at_iteration_2_4.png
+Iteration completed in 127.31 seconds
+Done after 886.81 seconds
+Style transfer (content loss and local coherence loss)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 256, 256) "B" shape (1, 3, 128, 106)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 51844698112.0
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_0_0.png
+Iteration completed in 5.16 seconds
+Start of iteration 0 x 1
+Current loss value: 45768777728.0
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_0_1.png
+Iteration completed in 5.38 seconds
+Start of iteration 0 x 2
+Current loss value: 43260940288.0
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_0_2.png
+Iteration completed in 5.31 seconds
+Start of iteration 0 x 3
+Current loss value: 41640853504.0
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_0_3.png
+Iteration completed in 5.31 seconds
+Start of iteration 0 x 4
+Current loss value: 41384419328.0
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_0_4.png
+Iteration completed in 5.11 seconds
+Scale factor 0.625 "A" shape (1, 3, 640, 640) "B" shape (1, 3, 319, 264)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 1.6743407616e+11
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_1_0.png
+Iteration completed in 36.85 seconds
+Start of iteration 1 x 1
+Current loss value: 1.5834841088e+11
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_1_1.png
+Iteration completed in 36.15 seconds
+Start of iteration 1 x 2
+Current loss value: 1.53046319104e+11
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_1_2.png
+Iteration completed in 36.39 seconds
+Start of iteration 1 x 3
+Current loss value: 1.4903861248e+11
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_1_3.png
+Iteration completed in 36.48 seconds
+Start of iteration 1 x 4
+Current loss value: 1.4606761984e+11
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_1_4.png
+Iteration completed in 36.48 seconds
+Scale factor 1.0 "A" shape (1, 3, 1024, 1024) "B" shape (1, 3, 511, 423)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 2.89434271744e+11
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_2_0.png
+Iteration completed in 127.36 seconds
+Start of iteration 2 x 1
+Current loss value: 2.75731316736e+11
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_2_1.png
+Iteration completed in 126.80 seconds
+Start of iteration 2 x 2
+Current loss value: 2.68074827776e+11
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_2_2.png
+Iteration completed in 126.69 seconds
+Start of iteration 2 x 3
+Current loss value: 2.63040303104e+11
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_2_3.png
+Iteration completed in 127.29 seconds
+Start of iteration 2 x 4
+Current loss value: 2.59206889472e+11
+Image saved as out/pizza-style-style-xfer/pizza-style-Bp_at_iteration_2_4.png
+Iteration completed in 127.70 seconds
+Done after 870.38 seconds
+Texture generator (local coherence only)
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled, cuDNN 5105)
+/data/d0/y15/hliang5/workspace/image-analogies/env/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+Using brute-force model
+Scale factor 0.25 "A" shape (1, 3, 256, 256) "B" shape (1, 3, 128, 106)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 0 x 0
+Current loss value: 8431787520.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_0_0.png
+Iteration completed in 5.28 seconds
+Start of iteration 0 x 1
+Current loss value: 7639566336.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_0_1.png
+Iteration completed in 5.60 seconds
+Start of iteration 0 x 2
+Current loss value: 7503035904.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_0_2.png
+Iteration completed in 5.69 seconds
+Start of iteration 0 x 3
+Current loss value: 7477166592.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_0_3.png
+Iteration completed in 5.19 seconds
+Start of iteration 0 x 4
+Current loss value: 7408242688.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_0_4.png
+Iteration completed in 5.44 seconds
+Scale factor 0.625 "A" shape (1, 3, 640, 640) "B" shape (1, 3, 319, 264)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 1 x 0
+Current loss value: 30780338176.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_1_0.png
+Iteration completed in 36.61 seconds
+Start of iteration 1 x 1
+Current loss value: 27974914048.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_1_1.png
+Iteration completed in 36.15 seconds
+Start of iteration 1 x 2
+Current loss value: 26623150080.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_1_2.png
+Iteration completed in 36.25 seconds
+Start of iteration 1 x 3
+Current loss value: 25939955712.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_1_3.png
+Iteration completed in 36.05 seconds
+Start of iteration 1 x 4
+Current loss value: 25484402688.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_1_4.png
+Iteration completed in 36.05 seconds
+Scale factor 1.0 "A" shape (1, 3, 1024, 1024) "B" shape (1, 3, 511, 423)
+Building loss...
+Precomputing static features...
+Building and combining losses...
+Start of iteration 2 x 0
+Current loss value: 45254090752.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_2_0.png
+Iteration completed in 128.23 seconds
+Start of iteration 2 x 1
+Current loss value: 42394447872.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_2_1.png
+Iteration completed in 127.18 seconds
+Start of iteration 2 x 2
+Current loss value: 41329401856.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_2_2.png
+Iteration completed in 127.64 seconds
+Start of iteration 2 x 3
+Current loss value: 40793763840.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_2_3.png
+Iteration completed in 128.06 seconds
+Start of iteration 2 x 4
+Current loss value: 40690401280.0
+Image saved as out/pizza-style-texture/pizza-style-Bp_at_iteration_2_4.png
+Iteration completed in 127.33 seconds
+Done after 868.71 seconds
